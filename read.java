@@ -4,10 +4,10 @@ public class{
 
 	int add()
 	{
-
+         return a+b;
 	}
 	int subtract(){
-
+          return a-b;
 	}
 
 
